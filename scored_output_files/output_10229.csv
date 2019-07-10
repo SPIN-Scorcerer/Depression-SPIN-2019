@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10229,1T_tr,the floor looked clean ,_ persistence rocks _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10229,SSN,he broke his leg ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10229,1T,_ _ _ _ the football hit _ the goalpost ,mother and father made the bed with clean shoes _ ,6,0,1,0,5,0,0,0,0,0,0,0,-1
+10229,1T_tr,the orange was very sweet ,_ orange _ _ scary ,0,1,0,0,0,0,2,0,0,1,0,0,4
+10229,1T_tr,the children dropped the bag ,the children dropped the bag ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,1T_tr,_ mother got _ a saucepan ,my mother got me a _ ,0,0,0,2,0,0,1,0,0,0,0,0,3
+10229,1T_tr,the girl has a picture book ,the girl has a picture book ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,1T_tr,the ball is bouncing very high ,_ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10229,SSN,they are riding their bicycles ,they are riding their bicycles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,1T_tr,they washed _ in cold water ,the watch is in cold water ,0,1,0,0,0,0,0,0,1,0,0,1,3
+10229,SSN,the buckets _ _ hold water ,the bucket is full of water ,0,0,0,1,0,0,1,1,0,0,0,2,5
+10229,1T,the driver started the engine ,_ breakfast means orange juice ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10229,1T,_ mother tied the string ,wrist elephants are big animals ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10229,SSN,the milk was by the front door ,the milk was by the front door ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,SSN,the good boy is helping _ _ ,the good boy is helping the man ,0,0,0,1,0,0,0,0,0,0,0,1,2
+10229,1T,_ the raincoat is hanging up ,around their _ _ _ necks ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10229,1T_tr,father forgot the bread ,_ forgot the book ,0,1,0,0,0,0,1,0,0,0,0,0,2
+10229,1T,some nice people are coming ,_ soster and i _ ,2,0,1,0,1,0,0,0,0,0,0,0,-1
+10229,1T,the tiny baby was pretty ,_ _ _ _ juice ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10229,SSN,the mailman brought a letter ,the mailman _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10229,1T_tr,the _ dog came back ,the mouse dog _ _ ,0,0,0,0,0,0,2,0,0,0,0,1,3
+10229,1T_tr,the new road is on the map ,_ _ _ _ _ _ rush ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10229,1T,_ _ _ _ he _ is sucking his thumb ,the first day of the week he washed his hands ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10229,1T,a man is turning the faucet ,a man _ turning the faucet ,0,0,0,0,0,0,1,0,0,0,0,0,1
+10229,1T,she bumped her head ,oh _ very fast ,3,0,1,0,2,0,0,0,0,0,0,0,-1
+10229,SSN,they followed the path ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10229,1T,the train stops at the station ,the train stops at the station ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,SSN,the shirts are hanging in the closet ,the shirts are hanging in the closet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,SSN,the janitor used a broom ,the janitor used a broom ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,SSN,the ground was very hard ,the ground was very hard ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,1T,the oven is too hot ,the oven was too hot ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10229,1T,they met some friends ,we met some friends ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10229,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,1T,they walked across the grass ,they walked across the grass ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,SSN,the dog jumped on the chair ,the dog jumped onto the chair ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10229,1T_tr,the young people are _ dancing ,the young people are not answering ,0,1,0,0,0,0,0,0,0,0,0,1,2
+10229,1T_tr,he is holding _ his nose ,he is holding up his nose ,0,0,0,0,0,0,0,0,0,0,0,1,1
+10229,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,1T,the daughter set the table ,dog very fat _ _ ,3,0,1,0,1,0,0,0,0,0,0,0,-1
+10229,1T,the puppy plays with a ball ,_ _ _ twenty five ball ,0,0,0,0,0,0,2,0,0,3,0,2,7
+10229,SSN,the kitchen clock was wrong ,the kitchen clock is wrong ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10229,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10229,SSN,the chicken laid some eggs ,you can leave some _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10229,1T,the _ boy hurried to _ school ,the ground is full of green leaves ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10229,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10229,SSN,they sat on a wooden bench ,we sat on _ the beach ,0,1,0,1,0,0,1,0,1,1,0,0,5
+10229,SSN,someone is crossing the road ,someone is crossing the _ ,0,0,0,0,0,0,1,0,0,0,0,0,1

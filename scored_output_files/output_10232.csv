@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10232,1T_tr,the children dropped the bag ,the children drive in back ,0,2,0,0,0,0,0,0,1,0,0,0,3
+10232,1T,the raincoat is hanging up ,the raincoat is hanging up ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T_tr,they had two empty bottles ,they had two _ _ ,0,0,0,0,0,0,2,0,0,0,0,0,2
+10232,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T_tr,he is holding his nose ,_ _ holding his nose ,0,0,0,0,0,0,1,0,0,1,0,0,2
+10232,1T,mother tied the string ,_ _ other stange ,2,0,1,0,0,0,0,0,0,0,0,0,-1
+10232,1T_tr,the dog came back ,the dog came back ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T,they walked across the grass ,they walked across the grass ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T,the puppy plays with a ball ,_ _ _ _ _ bald ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10232,SSN,they sat on a wooden bench ,they sat _ _ _ _ ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10232,1T,they met some friends ,we met some friends ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10232,SSN,the dog jumped on the chair ,the dog jumped in the chair ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10232,1T,the daughter set the table ,the daughter set the table ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,SSN,the ground was very hard ,the ground is very hard ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10232,1T,the football hit the goalpost ,the football hit the goalpost ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,SSN,the good boy is helping ,the good boy _ _ ,0,0,0,0,0,0,2,0,0,0,0,0,2
+10232,1T_tr,the orange was very sweet ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10232,1T_tr,_ father forgot the bread ,the frier forgot the bread ,0,1,0,1,0,0,0,0,0,0,0,0,2
+10232,1T,the tiny baby was pretty ,_ _ baby was pretty ,0,0,0,0,0,0,1,0,0,1,0,0,2
+10232,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,SSN,the buckets hold water ,the buckets _ were ,0,1,0,0,0,0,1,0,0,0,0,0,2
+10232,1T_tr,they washed in cold water ,we washed in cold water ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10232,1T,the oven is too hot ,the oven is too hot ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T,he is sucking his thumb ,he was sucking his thumb ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10232,SSN,they are riding their bicycles ,_ _ _ there _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10232,SSN,a dish towel is by the sink ,the dish towel was by the sink ,0,0,0,0,0,0,0,1,1,0,0,0,2
+10232,1T_tr,the new road is on the map ,the _ road is on the map ,0,0,0,0,0,0,1,0,0,0,0,0,1
+10232,1T_tr,the ball is bouncing very high ,the ball was bounding very high ,0,1,0,0,0,0,0,1,0,0,0,0,2
+10232,1T,the train stops at the station ,the train stops at the station ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,SSN,the janitor used a broom ,the janitor _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10232,SSN,he broke his leg ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10232,SSN,someone is crossing the road ,someone was _ _ constantly ,0,1,0,0,0,0,1,1,0,1,0,0,4
+10232,1T_tr,mother got a saucepan ,mother got _ saucepan ,0,0,0,0,0,0,0,0,0,1,0,0,1
+10232,SSN,the milk was by the front door ,the _ _ by _ front door ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10232,1T,the driver started the engine ,the driver started the engine ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,SSN,the kitchen clock was wrong ,the _ _ pigeon long ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10232,SSN,the shirts are hanging in the closet ,the shirts were hanging in the closet ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10232,SSN,they followed the path ,they found the cat ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10232,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T_tr,the young people are dancing ,the young people are dancing ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T_tr,the girl has a picture book ,the girl has a _ book ,0,0,0,0,0,0,1,0,0,0,0,0,1
+10232,1T_tr,the floor looked clean ,the floor looked clean ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,SSN,the mailman brought a letter ,the mailman _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10232,1T,the boy hurried to school ,the boy hurried to school ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T,some nice people are coming ,some nice people are coming ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10232,1T,a man is turning the faucet ,the man is turning the faucet ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10232,SSN,the chicken laid some eggs ,_ _ would you complete ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10232,1T,she bumped her head ,she bumped her head ,0,0,0,0,0,1,0,0,0,0,0,0,0
