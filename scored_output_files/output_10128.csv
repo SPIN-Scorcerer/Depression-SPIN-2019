@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10128,1T,the boy _ hurried to school ,the boys are going to school ,0,1,0,0,0,0,0,1,0,0,0,1,3
+10128,SSN,he broke his leg ,the road is wet ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10128,SSN,the mailman brought a letter ,the mailman brought _ _ ,0,0,0,0,0,0,1,0,0,1,0,0,2
+10128,SSN,the milk was by the front door ,the milk is by the front door ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10128,SSN,they sat on a wooden bench ,we sat on the new bench ,0,1,0,0,0,0,0,0,2,0,0,0,3
+10128,1T_tr,they washed _ in cold water ,we washed it in cold water ,0,0,0,1,0,0,0,0,1,0,0,0,2
+10128,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,SSN,the dog jumped on the chair ,the dog jumped on the chair ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T_tr,the dog came back ,the dog came back ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T_tr,mother got a saucepan ,mother got a saucepan ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T_tr,the orange was very sweet ,the orange was very sweet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T_tr,the ball is bouncing very high ,the ball was bouncing very high ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10128,SSN,the chicken laid some eggs ,the chicken laid some eggs ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,SSN,the kitchen clock was wrong ,the kitchen clock is wrong ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10128,1T,a man is turning the faucet ,a man is turning the fauset ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10128,1T,they _ _ walked across the _ _ _ grass ,the team was trained by their coach a race car ,6,0,1,0,4,0,0,0,0,0,0,0,-1
+10128,1T_tr,he is holding his nose ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10128,SSN,they are riding their bicycles ,theyre _ riding their bicycles ,0,0,0,0,0,0,1,0,0,1,0,1,3
+10128,1T_tr,the girl has a picture book ,the girl has _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10128,1T,mother tied the string ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10128,SSN,the janitor used a broom ,the janitor used a broom ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,SSN,the ground was very hard ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10128,1T_tr,father forgot the bread ,father forgot the bread ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T,the train stops at the station ,the train stopped at the station ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10128,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,SSN,they followed the path ,they followed a cat ,0,1,0,0,0,0,0,0,1,0,0,0,2
+10128,1T,he is sucking his thumb ,he is stucking his thumb ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10128,1T,the oven is too hot ,the pot is _ hot ,0,1,0,0,0,0,1,0,0,0,0,0,2
+10128,1T,the puppy plays with a ball ,the puppy plays with the ball ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10128,SSN,the good boy is helping ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10128,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T,the tiny baby was pretty ,the tiny baby was pretty ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T,the football hit the goalpost ,e football hit the goalpost ,0,0,0,0,0,0,0,0,0,1,0,1,2
+10128,SSN,the buckets hold water ,the buckets hold water ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T,they met some friends ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10128,SSN,the shirts are hanging in the closet ,the shirts are hanging _ _ _ ,0,0,0,0,0,0,1,0,0,2,0,0,3
+10128,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10128,1T_tr,the new road is on the map ,_ _ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10128,1T,the daughter set the table ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10128,1T,the raincoat is hanging up ,the raincoat is hanging up ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,SSN,someone is crossing the road ,someone _ crossed the road ,0,0,0,0,0,0,1,1,0,0,0,0,2
+10128,1T_tr,the children dropped the bag ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10128,1T,she bumped her head ,she bumped her head ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T_tr,the floor looked clean ,the floor looked clean ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T,the driver started the engine ,the driver started the engine ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T,some nice people are coming ,some nice people are coming ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10128,1T_tr,the young people are dancing ,e young people are dancing ,0,0,0,0,0,0,0,0,0,1,0,1,2

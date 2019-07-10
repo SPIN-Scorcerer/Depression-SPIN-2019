@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10116,SSN,they sat on a wooden bench ,_ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10116,1T,some nice people are coming ,_ sister and ixxx team ,3,0,1,0,2,0,0,0,0,0,0,0,-1
+10116,1T,mother tied the string ,_ _ rest animals ,2,0,1,0,1,0,0,0,0,0,0,0,-1
+10116,SSN,the buckets hold water ,_ _ _ water ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10116,1T,they met some friends ,elephants are big animals ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10116,1T_tr,father forgot the bread ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10116,1T,they walked across the _ grass ,_ _ team was trainded coach ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10116,SSN,the chicken laid some eggs ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10116,1T,the driver started the engine ,_ _ breakfast orange juice ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10116,1T,the daughter set the table ,coach can go very fast ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10116,SSN,he broke his leg ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10116,SSN,the mailman brought a letter ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10116,1T_tr,the girl has a picture book ,the girl _ _ _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10116,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10116,1T,the raincoat is hanging up ,_ _ my _ parents ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10116,1T_tr,the fruit is on the ground ,_ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10116,1T,the boy hurried to school ,the _ plants are green ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10116,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10116,1T,a man is turning the faucet ,birds singing in _ trees _ ,3,0,1,0,2,0,0,0,0,0,0,0,-1
+10116,1T,the oven is _ too hot ,for dissert he had apple pie ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10116,SSN,the shirts are hanging in the closet ,_ shirts _ _ _ _ _ ,0,0,0,0,0,0,3,0,0,3,0,0,6
+10116,1T,the train stops at the station ,_ sister and i are families ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10116,SSN,the kitchen clock was wrong ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10116,1T_tr,they washed in cold water ,_ _ _ cold water ,0,0,0,0,0,0,1,0,0,2,0,0,3
+10116,SSN,the dog jumped on the chair ,_ dog _ _ _ _ ,0,0,0,0,0,0,2,0,0,3,0,0,5
+10116,1T,_ the football hit the goalpost ,mother she made her bed clean ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10116,SSN,the milk was by the front door ,_ milk is by the front door ,0,0,0,0,0,0,0,1,0,1,0,0,2
+10116,1T_tr,he is holding his nose ,_ in _ his hair ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10116,1T_tr,the dog came back ,_ dogs _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10116,SSN,the good boy is helping ,_ _ _ z _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10116,1T,the tiny baby was pretty ,_ _ _ we heared ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10116,1T,she bumped her head ,she bumped her head ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10116,1T,he is sucking his thumb ,_ _ wash his hands ,2,0,1,0,1,0,0,0,0,0,0,0,-1
+10116,1T,the puppy plays with a ball ,_ _ _ _ 25 feet ,2,0,1,0,1,0,0,0,0,0,0,0,-1
+10116,1T_tr,the ball is bouncing very high ,the ball _ _ _ _ ,0,0,0,0,0,0,4,0,0,0,0,0,4
+10116,SSN,they are riding their bicycles ,they are riding their bikes ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10116,SSN,they followed the path ,_ _ _ z ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10116,SSN,a dish towel is by the sink ,a dish towel is by the sink ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10116,1T_tr,mother got a saucepan ,other guys _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10116,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10116,1T_tr,the new road is on the map ,_ _ road _ on the map ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10116,1T_tr,the floor looked clean ,_ _ looked green ,0,1,0,0,0,0,1,0,0,1,0,0,3
+10116,1T_tr,the young people are dancing ,_ young people are dancing ,0,0,0,0,0,0,0,0,0,1,0,0,1
+10116,1T_tr,the orange was very sweet ,_ orange _ _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10116,SSN,the ground was very hard ,_ _ _ very _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10116,1T_tr,the children dropped the bag ,the children _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10116,SSN,the janitor used a broom ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10116,1T_tr,the bus left early ,_ _ _ early ,0,0,0,0,0,0,2,0,0,1,0,0,3

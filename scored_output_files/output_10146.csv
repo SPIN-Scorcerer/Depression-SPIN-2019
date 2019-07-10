@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10146,SSN,they followed the path ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10146,1T_tr,they washed in cold water ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10146,SSN,the shirts are hanging in the closet ,the shirts are hanging in the closet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,1T,_ _ the tiny baby was pretty ,we heard the ticking of the clock ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10146,1T_tr,the children dropped the bag _ ,the children dropped _ a head ,0,0,0,1,0,0,1,0,0,1,0,1,4
+10146,SSN,they sat on a wooden bench ,the _ _ _ sack mule ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10146,1T,_ the raincoat is hanging up ,around their necks my _ parents ,2,0,1,0,2,0,0,0,0,0,0,0,-1
+10146,1T,_ _ _ _ he _ is sucking his thumb ,the first day of the week he washed his hands ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10146,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,1T,_ the driver started the engine ,breakfast we _ drank orange juice ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10146,1T_tr,they had two empty bottles ,_ _ _ a lazy ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10146,1T,_ _ _ some nice people are coming ,my sister and i the team was tr ,5,0,1,0,3,0,0,0,0,0,0,0,-1
+10146,1T_tr,the floor looked clean ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10146,SSN,they are riding their bicycles ,they were riding their bicycles ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10146,1T_tr,the dog came back ,the _ _ mouse ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10146,1T_tr,the fruit is on the ground ,_ sugar in my _ mouth ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10146,1T,mother tied the string ,_ _ _ wrists ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10146,1T_tr,_ mother got a saucepan ,my brother got a saucepan ,0,1,0,1,0,0,0,0,0,0,0,0,2
+10146,1T_tr,the orange was very sweet _ ,the orange was very sweet tasting ,0,0,0,0,0,0,0,0,0,0,0,1,1
+10146,1T_tr,the girl has a picture book ,the girl has a picture book ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,1T,the puppy plays with a ball ,their _ _ _ _ feet ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10146,1T,they _ walked across the _ _ _ grass ,the team was trying to coach a race car ,6,0,1,0,3,0,0,0,0,0,0,0,-1
+10146,SSN,the janitor used a broom ,the janitor moves a broom ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10146,1T,a man is turning the faucet ,the man is turning on faucets ,0,0,0,0,0,0,0,1,2,0,0,0,3
+10146,1T_tr,he is holding his nose ,his _ holding his nose ,0,0,0,0,0,0,1,0,1,0,0,0,2
+10146,SSN,the buckets _ hold water ,the buckets full of water ,0,0,0,1,0,0,1,0,0,0,0,1,3
+10146,1T_tr,the young people are dancing ,_ young people are dancing ,0,0,0,0,0,0,0,0,0,1,0,0,1
+10146,1T,the boy hurried to school ,the boys are into school ,0,1,0,0,0,0,0,1,1,0,0,0,3
+10146,SSN,he broke his leg _ ,the _ bird is light ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10146,SSN,the good boy is helping ,the good boy is hungry ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10146,SSN,the milk was by the front door ,the milk was by the front door ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,1T_tr,the ball is bouncing very high ,the ball is bouncing very high ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,SSN,the mailman brought a _ _ letter ,the mailman brought a ton of foam ,0,1,0,1,0,0,0,0,0,0,0,1,3
+10146,1T_tr,the new road is on the map ,the _ road is on the map ,0,0,0,0,0,0,1,0,0,0,0,0,1
+10146,1T,_ _ _ _ _ the football hit the goalpost ,his mother and father made the bed with clean sheets ,6,0,1,0,5,0,0,0,0,0,0,0,-1
+10146,1T,they met some friends ,elephants are big animals ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10146,1T,she bumped her head ,she bumped her head ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,SSN,the ground was very hard ,the ground was very hard ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,1T_tr,father forgot the bread ,father forgot the bread ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,1T,_ the daughter _ _ set the table ,coach a daughters car can go very fast ,6,0,1,0,3,0,0,0,0,0,0,0,-1
+10146,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,1T,the oven is too hot ,the elephant is too hot ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10146,1T,_ _ _ the _ _ train stops at the station ,sister and i the team was trained _ by _ _ ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10146,SSN,a dish towel is by the sink ,a dish towel is by the sink ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10146,SSN,the chicken laid some eggs ,the chicken lays _ eggs ,0,0,0,0,0,0,0,1,0,1,0,0,2
+10146,SSN,the dog jumped on the chair ,the dog jumped in the chair ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10146,SSN,the kitchen clock was wrong ,the kitchen pot is gone ,0,2,0,0,0,0,0,1,0,0,0,0,3

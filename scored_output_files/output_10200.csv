@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10200,1T,the football hit the goalpost ,_ football _ _ _ ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,1T,she bumped her head ,_ _ _ head ,0,0,0,0,0,0,1,0,0,2,0,0,3
+10200,1T_tr,she found her purse ,_ _ _ purse ,0,0,0,0,0,0,1,0,0,2,0,0,3
+10200,1T_tr,the bus left early ,_ bus _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10200,1T,the boy hurried to school ,_ _ _ _ school ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,SSN,the chicken laid some eggs ,_ chicken _ _ _ ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,SSN,they followed the path ,_ _ _ path ,0,0,0,0,0,0,1,0,0,2,0,0,3
+10200,SSN,the dog jumped on the chair ,_ dog _ _ _ _ ,0,0,0,0,0,0,2,0,0,3,0,0,5
+10200,SSN,the kitchen clock was wrong ,_ _ clock _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T,they met some friends ,_ _ _ friends ,0,0,0,0,0,0,1,0,0,2,0,0,3
+10200,SSN,they sat on a wooden bench ,_ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10200,1T_tr,the floor looked clean ,_ floor _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10200,1T_tr,the young people are dancing ,_ _ _ _ dancing ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T_tr,the orange was very sweet ,_ orange _ _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T_tr,the children dropped the bag ,_ children _ _ _ ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,1T,the puppy plays with a ball ,_ puppy _ _ _ _ ,0,0,0,0,0,0,2,0,0,3,0,0,5
+10200,SSN,a dish towel is by the sink ,_ dish towel _ _ _ _ ,0,0,0,0,0,0,2,0,0,3,0,0,5
+10200,SSN,the ground was very hard ,_ ground _ _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,SSN,the good boy is helping ,_ _ boy _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T_tr,they had two empty bottles ,_ _ _ _ bottles ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T,the tiny baby was pretty ,_ _ baby _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T_tr,father forgot the bread ,father _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10200,SSN,they are riding their bicycles ,_ _ _ _ bicycle ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10200,1T,the raincoat is hanging up ,_ raincoat _ _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T,the train stops at the station ,_ train _ _ _ _ ,0,0,0,0,0,0,2,0,0,3,0,0,5
+10200,1T_tr,the fruit is on the ground ,_ fruit _ _ _ _ ,0,0,0,0,0,0,2,0,0,3,0,0,5
+10200,SSN,someone is crossing the road ,_ _ _ _ road ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T,they walked across the grass ,_ _ _ _ grass ,0,0,0,0,0,0,1,0,0,3,0,0,4
+10200,1T_tr,mother got a saucepan ,mother _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10200,SSN,the mailman brought a letter ,_ mailman _ _ _ ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,SSN,he broke his leg ,_ _ _ leg ,0,0,0,0,0,0,1,0,0,2,0,0,3
+10200,SSN,the shirts are hanging in the closet ,_ shirts _ _ _ _ _ ,0,0,0,0,0,0,3,0,0,3,0,0,6
+10200,1T_tr,he is holding his nose ,_ _ _ _ nose ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,1T,the oven is too hot ,_ oven _ _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,1T_tr,the dog came back ,_ dog _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10200,1T,some nice people are coming ,_ _ people _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10200,SSN,the janitor used a broom ,_ janitor _ _ _ ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,1T_tr,the new road is on the map ,_ _ road _ _ _ _ ,0,0,0,0,0,0,3,0,0,3,0,0,6
+10200,1T_tr,the girl has a picture book ,_ _ _ _ _ book ,0,0,0,0,0,0,3,0,0,2,0,0,5
+10200,1T,the driver started the engine ,_ _ _ _ engine ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,1T,the daughter set the table ,_ daughters _ _ _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10200,1T_tr,the ball is bouncing very high ,_ ball _ _ _ _ ,0,0,0,0,0,0,4,0,0,1,0,0,5
+10200,SSN,the milk was by the front door ,_ milk _ _ _ _ _ ,0,0,0,0,0,0,3,0,0,3,0,0,6
+10200,1T,mother tied the string ,mother _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10200,1T,a man is turning the faucet ,_ _ _ _ _ faucet ,0,0,0,0,0,0,3,0,0,2,0,0,5
+10200,SSN,the buckets hold water ,_ bucket _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10200,1T_tr,they washed in cold water ,_ _ _ _ water ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10200,1T,he is sucking his thumb ,_ _ _ _ thumb ,0,0,0,0,0,0,2,0,0,2,0,0,4

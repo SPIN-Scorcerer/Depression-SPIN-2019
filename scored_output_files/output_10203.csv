@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10203,1T,the driver started the engine ,_ _ _ _ perfect ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,the bus left early ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,1T,the puppy plays with a ball ,_ _ off course twenty five ,3,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,the young people are dancing ,_ young people _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10203,1T,a man is turning the faucet ,_ _ _ _ _ injuries ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T,the tiny baby was pretty ,_ thinking _ _ _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,they washed in cold water ,_ _ a _ week ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,the new road is on the map ,_ _ _ _ _ _ rush ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,the floor looked clean ,_ _ _ drugs ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T,they walked across the grass ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,SSN,the shirts are hanging in the closet ,_ short _ _ _ _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T,some nice people are coming ,_ _ _ _ family ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10203,SSN,the dog jumped on the chair ,_ _ _ _ _ doctor ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,SSN,the good boy is helping ,_ good ways _ _ ,0,1,0,0,0,0,2,0,0,1,0,0,4
+10203,SSN,they sat on a wooden bench ,_ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,1T,the oven is too hot ,_ _ we _ have ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T,he _ _ is sucking his thumb ,the first day of _ the week ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10203,1T_tr,the orange was very sweet ,_ _ _ _ injuries ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,father forgot the bread ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,SSN,a dish towel is by the sink ,_ _ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,1T_tr,the ball is bouncing very high ,_ _ _ _ _ week ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,SSN,the chicken laid some eggs ,_ _ _ you can ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,SSN,the buckets hold water ,_ pockets _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,SSN,the ground was very hard ,_ _ _ _ hurt ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,SSN,he broke his leg ,_ _ _ live ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,SSN,the janitor used a broom ,_ _ _ _ generally ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,the fruit is on the ground ,_ _ _ _ _ instead ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,he is holding his nose ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,1T_tr,the children dropped the bag ,the children _ right back ,0,1,0,0,0,0,1,0,0,1,0,1,4
+10203,1T,the daughter set the table ,_ _ go very fast ,3,0,1,0,2,0,0,0,0,0,0,0,-1
+10203,SSN,someone is crossing the road ,someone is _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10203,1T_tr,they had two empty bottles ,they have _ _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T,the football hit _ the goalpost ,_ _ his mother made him ,2,0,1,0,2,0,0,0,0,0,0,0,-1
+10203,1T,the boy hurried to school ,_ _ _ green news ,2,0,1,0,1,0,0,0,0,0,0,0,-1
+10203,SSN,they followed the path ,_ _ we called ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,she found her purse ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,SSN,the mailman brought a letter ,_ _ _ _ remember ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T,the train stops at the station ,_ _ _ _ the team ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10203,1T,the raincoat is hanging up ,_ _ _ _ apparence ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,SSN,the milk was by the front door ,_ _ _ _ _ _ products ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10203,1T_tr,mother got a saucepan ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,1T,they met some friends ,elephants are big animals ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10203,SSN,they are _ riding their bicycles ,they are in line _ _ ,0,1,0,1,0,0,1,0,0,1,0,0,4
+10203,1T_tr,the girl has a _ picture book ,the girl has a great picture _ ,0,0,0,0,0,0,1,0,0,0,0,1,2
+10203,1T,mother tied the string ,elephants are big animals ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10203,SSN,the kitchen clock was wrong ,_ kitchen _ _ _ ,0,0,0,0,0,0,3,0,0,1,0,0,4
+10203,1T_tr,the dog came back ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10203,1T,she bumped her _ head ,_ _ very fast shoes ,3,0,1,0,3,0,0,0,0,0,0,0,-1

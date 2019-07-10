@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10155,1T,mother tied the string ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,SSN,they sat on a wooden bench ,_ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,SSN,the janitor used a broom ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T_tr,the girl has a picture book ,_ _ _ / _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T,the oven is too hot ,_ _ _ _ no ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T_tr,they had two empty bottles ,_ _ _ _ / ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,SSN,he broke his leg ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T,some nice people are coming ,_ _ _ no _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T,she bumped her head ,_ _ yes _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T_tr,he is holding his nose ,_ _ _ _ no ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,SSN,the buckets hold water ,yes _ it is ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,the train stops at the station ,_ _ _ _ yes _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,the boy hurried to school ,_ _ _ no _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T,they walked across the grass ,_ _ _ yes _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,SSN,a dish towel is by the sink ,_ _ _ _ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,_ they met some friends ,ye they _ _ are ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10155,SSN,they followed the path ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,SSN,they are riding their bicycles ,_ no _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T_tr,the bus left early ,no it left late ,0,1,0,1,0,0,1,0,1,0,0,0,4
+10155,1T_tr,the orange was very sweet ,_ _ yes _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,the puppy plays with a ball ,_ _ _ _ yes _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,SSN,the shirts are hanging in the closet ,_ _ _ _ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,the tiny baby was pretty ,_ _ _ yes _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T_tr,the children dropped the bag ,_ _ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T_tr,mother got a saucepan ,_ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,the driver started the engine ,_ _ _ yes _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T_tr,she found her purse ,_ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,SSN,the good boy is helping ,_ _ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,the daughter set the table ,_ _ _ _ no ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,SSN,the milk was by the front door ,_ _ _ _ yes _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,he is sucking his thumb ,_ yes _ _ _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,SSN,the dog jumped on the chair ,_ _ _ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,SSN,the kitchen clock was wrong ,_ _ _ no _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T_tr,they washed in cold water ,_ _ yno hot water ,0,1,0,0,0,0,1,0,0,2,0,1,5
+10155,SSN,the ground was very hard ,_ _ yes _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T_tr,the ball is bouncing very high ,_ _ yes _ _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T_tr,the floor looked clean ,_ _ _ no ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,SSN,the chicken laid some eggs ,yes _ _ _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,SSN,someone is crossing the road ,_ _ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,the football hit the goalpost ,_ _ _ yes _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,SSN,the mailman brought a letter ,_ _ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T_tr,the new road is on the map ,_ _ _ _ _ yes _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,the raincoat is hanging up ,_ _ _ _ no ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T_tr,the fruit is on the ground ,_ _ _ no _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T_tr,the dog came back ,yes _ _ _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T,a man is turning the faucet ,_ _ _ _ yes _ ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10155,1T_tr,father forgot the bread ,_ _ _ no ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10155,1T_tr,the young people are dancing ,_ _ _ no _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1

@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10145,1T,_ _ _ the train stops at the station _ _ _ _ ,sister and i the train stops at the station the team an i ,0,0,0,3,0,0,0,0,0,0,0,4,7
+10145,SSN,the dog jumped on the chair ,the dog jumped in the chair ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10145,1T_tr,the dog came back ,the dog came _ ,0,0,0,0,0,0,1,0,0,0,0,0,1
+10145,1T,_ _ _ _ _ he is sucking his thumb _ _ _ _ ,first day of the week he is sucking his thumb he washed his hands ,0,0,0,4,0,0,0,0,0,0,0,5,9
+10145,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,the chicken laid some eggs ,the chicken laid some eggs ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T,_ the daughter set the table ,coach the daughters _ _ table ,0,0,0,0,0,0,1,1,0,1,0,1,4
+10145,1T_tr,the children dropped the bag ,the children dropped the bag ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,the mailman brought a letter ,the mailman brought a letter ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T_tr,mother got a saucepan ,other guys _ saucepan ,0,2,0,0,0,0,0,0,0,1,0,0,3
+10145,1T,a man is _ _ turning _ the faucet _ _ ,a man is building us turning on a faucet in trees ,0,0,0,3,0,0,0,0,1,0,0,2,6
+10145,1T,mother tied the string ,elephants are big animals ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10145,1T,they _ _ _ _ _ _ _ walked across the grass ,the team was train by a racecar coach walked across the grass ,0,0,0,2,0,0,0,0,1,0,0,5,8
+10145,1T,_ _ they met some _ friends _ ,elephants are we meet some big friends animals ,0,0,0,0,0,0,0,1,1,0,0,4,6
+10145,SSN,the shirts are hanging in the closet ,the shirts are hanging in the closet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T,_ _ _ some nice people are coming _ _ _ _ ,sister and i trained was family was coming the team was trained ,0,2,0,2,0,0,0,1,0,1,0,6,12
+10145,1T,_ the _ _ raincoat is hanging up _ _ _ _ ,round their necks my raincoat is hanging up my sister and i ,0,0,0,3,0,0,0,0,1,0,0,4,8
+10145,1T_tr,the girl has a picture book ,the girl has a picture book ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T_tr,the orange was very sweet ,the orange was very sweet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10145,1T_tr,_ _ _ the young people are dancing ,my sister and i young people _ _ ,0,0,0,2,0,0,2,0,0,1,0,2,7
+10145,1T_tr,he is holding his nose ,he is holding his nose ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T_tr,the ball is bouncing very high ,the ball was bouncing really high ,0,1,0,0,0,0,0,1,0,0,0,0,2
+10145,1T_tr,_ the new road is on the map ,near the _ roads _ on the map ,0,0,0,1,0,0,2,1,0,0,0,0,4
+10145,1T,_ _ the oven is _ _ too hot _ _ _ ,big animals the oven is for desert to hot he had apple ,0,0,0,3,0,0,1,0,0,0,0,5,9
+10145,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,they followed the path ,they followed the path ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,the milk was by the front door ,the milk was by the front door ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,he broke his leg ,he broke his leg ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T,_ the tiny baby was pretty _ _ _ _ _ ,juice we heard baby was pretty the ticking of the clock ,0,1,0,3,0,0,0,0,1,0,0,3,8
+10145,1T,_ _ the boy hurried to school _ _ _ _ _ ,the plants the boys went to school are full of green leaves ,0,1,0,2,0,0,0,1,0,0,0,5,9
+10145,1T,_ the puppy plays with _ _ a _ _ _ ball ,our fate puppy plays with the ball a quater is twenty five ,0,1,0,2,0,0,0,0,0,1,0,5,9
+10145,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,they sat on a wooden bench ,_ _ _ is that revenge ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10145,SSN,they are riding their bicycles ,they are riding their bicycles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,the janitor used a broom ,the janitor used a broom ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T_tr,the floor looked clean ,the floor looked clean ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T,_ _ _ the football hit the goalpost _ _ _ _ _ _ _ ,mother and father the football his the goalpost she made the bed with clean sheets ,0,0,0,5,0,0,1,0,0,0,0,6,12
+10145,SSN,the good boy is helping ,a good boy is _ ,0,0,0,0,0,0,1,0,1,0,0,0,2
+10145,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,the buckets hold water ,the buckets hold water ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T,_ the driver started the engine _ _ ,breakfast the driver started the engine we heard ,0,0,0,1,0,0,0,0,0,0,0,2,3
+10145,SSN,the kitchen clock was wrong ,the kitchen pot is _ ,0,1,0,0,0,0,1,1,0,0,0,0,3
+10145,1T_tr,father forgot the bread ,father forgot the bread ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,1T,_ _ _ she bumped her head _ _ _ ,go very fast she bumped her head people wear shoes ,0,0,0,0,0,0,0,0,0,0,0,6,6
+10145,1T_tr,they washed in cold water ,they washed in cold water ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10145,SSN,the ground was very hard ,the ground was very hard ,0,0,0,0,0,1,0,0,0,0,0,0,0

@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10163,1T_tr,mother got a saucepan ,mother got a saucepan ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,the raincoat is hanging up ,_ _ my _ parents ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10163,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T_tr,the young people are dancing ,the young people are dancing ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T_tr,the children dropped the bag ,the children dropped the bag ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,the daughter set the table ,our daughter _ is _ ,0,0,0,0,0,0,2,0,1,1,0,1,5
+10163,SSN,the kitchen clock was wrong ,the kitchen clock is wrong ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10163,1T_tr,the floor looked clean ,the floor looked clean ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,some nice people are coming ,some nice people are coming ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,a man is turning the faucet ,a man is turning a faucet ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10163,1T_tr,the ball is bouncing very high ,the ball is bouncing very high ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,they sat on a wooden bench ,we sat on _ the bench ,0,0,0,1,0,0,1,0,1,1,0,0,4
+10163,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T_tr,he is holding his nose ,he is holding his nose ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,the mailman brought a letter ,the mailman _ is on ,0,0,0,1,0,0,2,0,0,1,0,1,5
+10163,1T,the football hit the _ goalpost ,the football hit the goal posts ,0,1,0,0,0,0,0,0,0,0,0,1,2
+10163,1T,they met some friends ,we met our friends ,0,0,0,0,0,0,0,0,2,0,0,0,2
+10163,SSN,they followed the path ,we followed the path ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10163,1T_tr,_ father forgot the bread ,the father forgot the bread ,0,0,0,1,0,0,0,0,0,0,0,0,1
+10163,1T_tr,the orange was very sweet ,the orange was very sweet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,the tiny baby was pretty ,the tiny baby was pretty ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,the boy hurried to school ,the boy hurried to school ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,they are riding their bicycles ,they are riding their bicycles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,she bumped her head ,she bumped her head ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T_tr,the dog came back ,the dog came back ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T_tr,they washed in cold water ,they washed in cold water ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,he is sucking his thumb ,he is sucking his thumb ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,the buckets _ _ hold water ,the bucket is full of water ,0,0,0,1,0,0,1,1,0,0,0,2,5
+10163,SSN,the milk was by the front door ,the milk is by the front door ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10163,1T,they walked across the grass ,they walked across the grass ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T_tr,the new road is on the map ,the new road is on the map ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,the shirts are hanging in the closet ,the shirts are hanging in the closet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,the good boy is helping ,the good boy is helping ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,the puppy plays with a ball ,the puppy plays with the ball ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10163,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,the ground was very hard ,the ground was very hard ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,the driver started the engine ,the driver started the engine ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T_tr,the girl has a picture book ,the girl has a picture book ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,the dog jumped on the chair ,the dog jumped on the chair ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,the oven is too hot ,the _ is too hot ,0,0,0,0,0,0,1,0,0,0,0,0,1
+10163,SSN,he broke his leg ,he broke his leg ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,the chicken laid some eggs ,the chicken laid some eggs ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,the janitor used a broom ,the janitor cleans the building ,0,2,0,0,0,0,0,0,1,0,0,0,3
+10163,1T,mother tied the string ,mother tied the string ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,1T,the train stops at the station ,the train stops at the station ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10163,SSN,a dish towel is by the sink ,a dish towel is by the sink ,0,0,0,0,0,1,0,0,0,0,0,0,0

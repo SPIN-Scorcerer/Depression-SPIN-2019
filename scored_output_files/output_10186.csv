@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10186,SSN,they sat on a wooden bench ,the _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10186,SSN,they followed the path ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10186,1T_tr,_ _ the dog came back ,if not the dog _ _ ,0,0,0,1,0,0,2,0,0,0,0,1,4
+10186,1T,the _ boy hurried to _ school ,the plants are full of green leaves ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10186,1T,the puppy plays with a ball ,a quarter is worth 25 cents ,4,0,1,0,2,0,0,0,0,0,0,0,-1
+10186,1T,they walked across the grass ,we walked across the grass ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10186,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T,the driver started the engine ,the driver started the engine ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,SSN,the good boy is helping ,the good boy is helping ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T,some nice people are coming ,some nice people are coming ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,the girl has a picture book ,the girl has a picture book ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,SSN,they are riding their bicycles ,they are riding their bicycles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,SSN,the milk was by the front door ,the milk is by the front door ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10186,SSN,the ground was very hard ,the ground is very hot ,0,1,0,0,0,0,0,1,0,0,0,0,2
+10186,1T,he is sucking his thumb ,he is sucking his thumb ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,mother got a saucepan ,mother got a saucepan ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T,they met some friends ,_ _ are friends ,0,0,0,0,0,0,1,0,0,2,0,1,4
+10186,1T,she bumped her head ,she bumped her head ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,the ball is bouncing very high ,the ball is bouncing very high ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,the new road is on the map ,the _ road is on the map ,0,0,0,0,0,0,1,0,0,0,0,0,1
+10186,SSN,the kitchen clock was wrong ,the pigeon dropped his wallet ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10186,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10186,1T,the oven is too hot ,_ theoven is too hot ,0,1,0,0,0,0,0,0,0,1,0,0,2
+10186,1T,the tiny baby was pretty ,the tiny baby was pretty ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,SSN,the janitor used a broom ,the janitor cleans the room ,0,2,0,0,0,0,0,0,1,0,0,0,3
+10186,SSN,the chicken laid some eggs ,the chicken laid some eggs ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,the children dropped the bag ,the children dropped the bag ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,the floor looked clean ,the floor looked clean ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,he is holding his nose ,he is holding his nose ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T,the daughter set the table ,the daughter set the table ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T,the train stops at the station ,the train stops at the station ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T,mother tied the string ,arthur tied the string ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10186,SSN,the mailman brought a letter ,the mailman brought the mail ,0,1,0,0,0,0,0,0,1,0,0,0,2
+10186,1T,the raincoat is hanging up ,the raincoat is hanging up ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,the orange was very sweet ,the orange was very sweet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,they washed in cold water ,they washed with cold water ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10186,1T,_ _ a man is turning the faucet ,birds build their nests in _ trees _ ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10186,SSN,the buckets _ hold water ,the buckets full of water ,0,0,0,1,0,0,1,0,0,0,0,1,3
+10186,1T,the football hit the goalpost ,the football hit the goalpost ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,SSN,he broke his leg ,is filled with lead ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10186,SSN,the shirts are hanging in the closet ,the shirts are _ in the closet ,0,0,0,0,0,0,1,0,0,0,0,0,1
+10186,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,1T_tr,the young people are dancing ,the young people are dancing ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10186,SSN,the dog jumped on the chair ,the dog jumped on the chains ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10186,1T_tr,father forgot the bread ,father forgot the bread ,0,0,0,0,0,1,0,0,0,0,0,0,0

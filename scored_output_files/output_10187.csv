@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10187,1T,he _ _ is sucking his thumb ,the first day of _ the week ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10187,1T_tr,the floor looked clean ,_ _ rocks _ ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10187,SSN,the good boy is helping ,the good boy _ _ ,0,0,0,0,0,0,2,0,0,0,0,0,2
+10187,1T_tr,the girl has a picture book ,the girl has a _ _ ,0,0,0,0,0,0,2,0,0,0,0,0,2
+10187,SSN,the ground was very hard ,the ground was very hard ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,SSN,the chicken laid some eggs ,the chicken lays an egg ,0,0,0,0,0,0,0,2,1,0,0,0,3
+10187,1T_tr,the ball is bouncing very high ,the ball was bouncing very high ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10187,1T,the football hit the goalpost ,the _ mother and father ,2,0,1,0,2,0,0,0,0,0,0,0,-1
+10187,1T_tr,father forgot the bread ,roxy forgot the bread ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10187,1T_tr,the dog came back ,the dog came back ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,SSN,the mailman brought a letter ,the mailman _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10187,1T,the tiny baby was pretty ,_ _ _ _ juice ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10187,1T,she bumped her head _ _ _ ,she bumped her head people wear shoes ,0,0,0,0,0,0,0,0,0,0,0,3,3
+10187,1T_tr,the young people are dancing ,the young people are dancing ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,SSN,they followed the path ,they followed the path ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T,_ the _ daughter set the table ,coach the car can go very fast ,5,0,1,0,3,0,0,0,0,0,0,0,-1
+10187,1T_tr,the orange was very sweet ,the orange was very sweet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T,a man is turning the faucet _ ,the man is turning the faucet trees ,0,0,0,0,0,0,0,0,1,0,0,1,2
+10187,SSN,the shirts are hanging in the closet ,the shirts are hanging in the closet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T_tr,the children dropped the bag ,the children dropped the bag ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T,_ the raincoat is hanging up ,round their necks my _ parents ,3,0,1,0,2,0,0,0,0,0,0,0,-1
+10187,1T_tr,the new road is on the map ,the new road was on the map ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10187,1T,mother tied the string ,wrists aldehydes are strange ,3,0,1,0,1,0,0,0,0,0,0,0,-1
+10187,SSN,they sat on a wooden bench ,they sat _ behind the bench ,0,0,0,1,0,0,1,0,1,1,0,0,4
+10187,1T,_ they met some friends ,elephants are big animals friends ,0,1,0,0,0,0,0,0,0,2,0,3,6
+10187,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T,they walked across the grass _ _ ,they walked across the grass the team ,0,0,0,1,0,0,0,0,0,0,0,1,2
+10187,1T,_ _ _ the _ _ train _ stops at the station ,sister and i the team was trained by stopped at the tracks ,7,0,1,0,5,0,0,0,0,0,0,0,-1
+10187,1T,_ _ _ some nice people are coming ,sister and i some nice people the team ,0,1,0,2,0,0,1,0,0,0,0,2,6
+10187,SSN,the janitor used a broom ,the janitor holds the broom ,0,1,0,0,0,0,0,0,1,0,0,0,2
+10187,SSN,the kitchen clock was wrong ,the kitchen clock is wrong ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10187,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T,_ _ the puppy plays with _ _ a _ _ _ ball ,the feet the puppy plays with the ball a quarter is 25 cents ,0,1,0,2,0,0,0,0,0,0,0,5,8
+10187,SSN,the milk was by the front door ,the building was by the front door ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10187,SSN,they are riding their bicycles ,they are riding their bicycles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10187,SSN,the buckets _ _ hold water ,the bucket is full of water ,0,0,0,1,0,0,1,1,0,0,0,2,5
+10187,1T_tr,they washed in cold water ,they washed in cold water ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T,_ _ _ _ _ _ _ _ the oven is too hot ,big animals for dessert they had apple pie the over is _ hot ,0,0,0,3,0,0,2,0,0,0,0,6,11
+10187,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T,_ _ _ _ _ _ _ the boy hurried to school _ ,the plants are full of green leaves the boy went to school once ,0,1,0,2,0,0,0,0,0,0,0,6,9
+10187,1T_tr,mother got a saucepan ,mother got a saucepan ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T_tr,they had two empty bottles ,they had two _ _ ,0,0,0,0,0,0,2,0,0,0,0,0,2
+10187,1T,_ the driver started the engine _ _ _ _ ,breakfast the driver started the engine orange juice we heard ,0,0,0,1,0,0,0,0,0,0,0,4,5
+10187,SSN,the dog jumped on the chair ,the dog jumped on the chair ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,SSN,he broke his leg ,he broke his leg ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10187,1T_tr,he is holding his nose ,he is holding the towels ,0,1,0,0,0,0,0,0,1,0,0,0,2

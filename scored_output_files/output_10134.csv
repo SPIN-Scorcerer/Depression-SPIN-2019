@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10134,1T,_ _ the tiny baby was pretty ,we heard the ticking of the clock ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10134,1T_tr,mother got a saucepan ,_ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10134,SSN,the mailman brought a letter ,_ mailman _ _ _ ,0,0,0,0,0,0,2,0,0,2,0,0,4
+10134,1T,the daughter set the table ,_ _ _ _ coach ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10134,SSN,they followed the path ,they followed the path ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T,_ a man is turning the faucet ,the bird nest in _ trees _ ,3,0,1,0,1,0,0,0,0,0,0,0,-1
+10134,1T_tr,the new road is on the map ,_ _ roads _ on _ map ,0,0,0,0,0,0,2,1,0,2,0,0,5
+10134,1T_tr,the fruit is on the ground ,_ fruit is on the ground ,0,0,0,0,0,0,0,0,0,1,0,0,1
+10134,1T_tr,father forgot the bread ,father forgot the bread ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T_tr,the dog came back ,the dog came back ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T_tr,he is holding his nose ,he is holding his nose ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T,she bumped her head ,_ go very fast ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10134,SSN,the chicken laid some eggs ,the chicken laid some eggs ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T_tr,the ball is bouncing very high ,the ball was bouncing very high ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10134,1T_tr,the girl has a picture book ,the girl has a picture book ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T_tr,the orange was very sweet ,the orange was very sweet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,SSN,the milk was by the front door ,the milk was by the front door ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T,the oven is too hot ,_ _ _ _ animals ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10134,1T,_ _ _ _ _ the football hit the goalpost ,mother and father she made the bed with clean sheets ,6,0,1,0,5,0,0,0,0,0,0,0,-1
+10134,1T_tr,the children dropped the bag ,the children droped the bag ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10134,SSN,he broke his leg ,he break his leg ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10134,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10134,1T,the boy hurried to school ,full of _ green leafs ,3,0,1,0,2,0,0,0,0,0,0,0,-1
+10134,SSN,they sat on a wooden bench ,_ sat _ _ _ _ ,0,0,0,0,0,0,2,0,0,3,0,0,5
+10134,1T_tr,the floor looked clean ,the floor looked clean ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T,he _ _ is sucking his thumb ,the first day of _ the week ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10134,1T_tr,they washed in cold water ,they washed in cold water ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T,the puppy plays with a ball ,there _ _ _ _ feet ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10134,1T,they walked across the grass ,_ _ _ the team ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10134,SSN,the buckets _ _ hold water ,the bucket is full of water ,0,0,0,1,0,0,1,1,0,0,0,2,5
+10134,SSN,the kitchen clock was wrong ,th kitchen clock is _ ,0,0,0,0,0,0,1,1,1,0,0,0,3
+10134,SSN,they are riding their bicycles ,they are riding their bicycle ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10134,1T_tr,the young people are dancing ,the young people are dancing ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T,_ the raincoat is hanging up ,around the _ _ _ neck ,2,0,1,0,0,0,0,0,0,0,0,0,-1
+10134,1T,the driver started the engine ,breakfast drink some orange juice ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10134,SSN,the shirts are hanging in the closet ,the shirts are hanging _ _ closet ,0,0,0,0,0,0,0,0,0,2,0,0,2
+10134,SSN,the dog jumped on the chair ,the dog jumped _ _ chair ,0,0,0,0,0,0,0,0,0,2,0,0,2
+10134,SSN,the ground was very hard ,the groung was very hard ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10134,SSN,the good boy is helping ,the good boys _ always ,0,1,0,0,0,0,1,1,0,0,0,0,3
+10134,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T,they met some friends ,elephants are big animals ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10134,SSN,the janitor used a broom ,the janitor cleans the building ,0,2,0,0,0,0,0,0,1,0,0,0,3
+10134,1T,mother tied the string ,_ _ _ rest ,1,0,1,0,0,0,0,0,0,0,0,0,-1
+10134,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10134,1T,some nice people are coming ,_ sister and i _ ,2,0,1,0,2,0,0,0,0,0,0,0,-1
+10134,1T,_ _ _ the train stops at the station ,sister and i the train _ _ _ station ,0,0,0,1,0,0,1,0,0,2,0,2,6

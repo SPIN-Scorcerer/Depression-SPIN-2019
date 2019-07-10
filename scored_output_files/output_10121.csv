@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10121,SSN,the ground was very hard ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10121,1T,the _ boy hurried to _ school ,the plants are full of green leaves ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10121,1T_tr,he is holding his nose ,_ _ over this nose ,0,0,0,1,0,0,2,0,1,1,0,0,5
+10121,1T_tr,the orange was very _ sweet ,_ _ was very orange indeed ,0,1,0,0,0,0,1,0,0,1,0,1,4
+10121,1T,some nice people are coming ,some nice people are coming ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T,the driver started the engine ,the driver started the engine ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T,mother tied the string ,other type of strain ,3,0,1,0,0,0,0,0,0,0,0,0,-1
+10121,1T,they _ _ walked across the grass ,the team was trained by their coach ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10121,1T_tr,mother got _ a saucepan ,mother got me a saucepan ,0,0,0,1,0,0,0,0,0,0,0,0,1
+10121,SSN,the shirts are hanging in the closet ,the shirts are hanging in the closet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T_tr,_ the floor looked _ clean ,before he _ looked at me ,0,0,0,3,0,0,2,0,1,0,0,0,6
+10121,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,SSN,they followed the path ,they followed the path ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,SSN,he broke his leg ,he saved his life ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10121,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,SSN,the mailman brought a letter ,her mailman bought her mail ,0,2,0,0,0,0,0,0,2,0,0,0,4
+10121,1T_tr,father forgot the bread ,_ forgot the book ,0,1,0,0,0,0,1,0,0,0,0,0,2
+10121,SSN,the janitor used a broom ,_ janitor used the broom ,0,0,0,0,0,0,0,0,1,1,0,0,2
+10121,1T,the football hit the goalpost ,the football hit the goal ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10121,SSN,they sat on a wooden bench ,_ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10121,1T,he is sucking his thumb ,he is sucking his thumb ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T,_ _ the tiny baby was pretty ,we heard the ticking of the clock ,3,0,1,0,3,0,0,0,0,0,0,0,-1
+10121,1T,the daughter set the table ,_ _ _ _ coach ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10121,1T_tr,the dog came back ,the dog came back ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,SSN,the buckets _ _ hold water ,the bucket is full of water ,0,0,0,1,0,0,1,1,0,0,0,2,5
+10121,SSN,they are riding their bicycles ,they are riding their bicycles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T_tr,the ball is bouncing very high ,the ball was bouncing very high ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10121,1T,a man is turning the faucet ,a man is turning a foucet ,0,1,0,0,0,0,0,0,1,0,0,0,2
+10121,SSN,the good boy is helping ,_ good boys _ coming ,0,1,0,0,0,0,1,1,0,1,0,0,4
+10121,SSN,the dog jumped on the chair ,_ dog jumped on the chair ,0,0,0,0,0,0,0,0,0,1,0,0,1
+10121,1T_tr,the young people are dancing ,the young people are dancing ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T,the oven is too hot ,the oven is too hot ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T,they met some friends ,we met some friends ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10121,1T_tr,they washed in cold water ,they washed in cold water ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,SSN,the chicken laid some eggs ,the chicken laid some eggs ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T_tr,the children dropped the bag ,the children dropped the bag ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T_tr,they had two empty bottles ,they had two empty box ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10121,1T,she bumped her head ,she bumped her head ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T,the puppy plays with a _ ball ,_ a quarter is a 25 cent ,3,0,1,0,1,0,0,0,0,0,0,0,-1
+10121,1T,_ the raincoat is hanging up ,around their _ _ _ necks ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10121,1T_tr,the new road is on the map ,the new road was on the map ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10121,SSN,the milk was by the front door ,the milk was by the front door ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10121,1T,the train stops at the station ,the train stops at the station ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10121,1T_tr,the girl has a picture book ,the girl has a picture booklet ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10121,SSN,the kitchen clock was wrong ,the kitchen clock is wrong ,0,0,0,0,0,0,0,1,0,0,0,0,1

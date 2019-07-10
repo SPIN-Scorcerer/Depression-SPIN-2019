@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10141,SSN,they sat on a wooden bench ,_ i dont _ hear anything ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10141,1T_tr,the fruit is on the ground ,_ _ i dont hear anything ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10141,SSN,the good boy is helping ,the good boy is helping ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,SSN,the janitor used a broom ,the janitor used a broom ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,SSN,the dog jumped on the chair ,the dog jumped in the chair ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10141,1T_tr,the bus left early ,the something left early ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10141,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,_ _ the tiny baby was pretty ,we head the ticking of the clock ,3,0,1,0,2,0,0,0,0,0,0,0,-1
+10141,SSN,they followed the path ,they followed the path ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,SSN,the mailman brought a letter ,the mailman _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10141,1T,_ _ _ _ he _ is sucking his thumb ,the first day of the week he washed his hands ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10141,1T_tr,father forgot the bread ,_ _ _ russian ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10141,1T,the _ daughter set the table ,the racecar can go very fast ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10141,SSN,the milk was by the front door ,the milk was by the front door ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,_ _ the driver started the engine ,at breakfast he had some orange juice ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10141,1T,_ _ the football hit the goalpost ,he made the bed with clean sheets ,4,0,1,0,3,0,0,0,0,0,0,0,-1
+10141,1T,the puppy plays with a ball ,a quarter is worth 25 cents ,4,0,1,0,2,0,0,0,0,0,0,0,-1
+10141,1T_tr,he is holding his nose ,he is holding his nose ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,the train stops at the station ,the train stops at the station ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T_tr,the ball is bouncing very high ,the ball was bouncing very high ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10141,SSN,the chicken laid some eggs ,the chicken laid some eggs ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,SSN,the kitchen clock was wrong ,the kitchen plot is raw ,0,2,0,0,0,0,0,1,0,0,0,0,3
+10141,1T,some nice people are coming ,some nice people are coming ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,a man is turning the faucet ,a man is turning the faucet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T_tr,the orange was very sweet ,the orange was very sweet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,they _ _ walked across the _ grass ,the team was trained by the new coach ,5,0,1,0,4,0,0,0,0,0,0,0,-1
+10141,1T,mother tied the string ,elephants are big animals ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10141,SSN,the shirts are hanging in the closet ,the shirts are hanging in the closet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,_ the raincoat is hanging up ,around their _ _ _ necks ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10141,1T_tr,the dog came back ,the dogs came _ ,0,0,0,0,0,0,1,1,0,0,0,0,2
+10141,1T_tr,mother got a saucepan ,mother got a saucepan ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T_tr,they washed in cold water ,_ washed in cold water ,0,0,0,0,0,0,0,0,0,1,0,0,1
+10141,1T_tr,the children dropped the bag ,the children dropped the bag ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,SSN,they are riding their bicycles ,they are riding their bicycles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10141,1T_tr,the floor looked clean ,the four looked clean ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10141,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,the oven is too hot ,_ _ _ for dessert ,1,0,1,0,1,0,0,0,0,0,0,0,-1
+10141,SSN,the buckets _ hold water ,the buckets full of water ,0,0,0,1,0,0,1,0,0,0,0,1,3
+10141,SSN,he broke his leg ,he broke his leg ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,she bumped her head ,he bumped his head ,0,0,0,0,0,0,0,0,2,0,0,0,2
+10141,1T_tr,the girl has a picture book ,the girl has a picture book ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T_tr,the new road is _ on the map ,_ _ _ i have no _ idea ,0,0,1,0,0,0,0,0,0,0,0,0,-1
+10141,SSN,the ground was very hard ,the ground was very hard ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10141,1T,the _ boy hurried to _ school ,the plants are full of green leaves ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10141,1T,they met some friends ,elephants are big animals ,4,0,1,0,4,0,0,0,0,0,0,0,-1
+10141,1T_tr,the young people are dancing ,the young people were dancing ,0,0,0,0,0,0,0,1,0,0,0,0,1

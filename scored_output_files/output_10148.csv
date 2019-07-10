@@ -1,0 +1,49 @@
+subject_id,condition,key_sentence,resp_sentence,total_cont_words,sub_cont,DNH_incorrect,add_func,distractor_words,perfect,omit_cont,morph,sub_func,omit_func,DNH_nothing,add_cont,total_errors
+10148,1T_tr,the ball is bouncing very high ,_ _ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10148,SSN,the milk was by the front door ,the milk is by the front door ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10148,SSN,they followed the path ,they followed a pathtab ,0,1,0,0,0,0,0,0,1,0,0,0,2
+10148,1T,she bumped her head _ _ _ ,she bumped her head people wear shoes ,0,0,0,0,0,0,0,0,0,0,0,3,3
+10148,1T,the train stops at the station _ _ _ _ _ ,the train stop at the station sister and i the team ,0,0,0,2,0,0,0,1,0,0,0,3,6
+10148,SSN,someone is crossing the road ,someone is crossing the road ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T_tr,the floor looked clean ,the floor looked clean ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,the ground was very hard ,the ground was very hard ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T,_ _ _ he _ is sucking his thumb ,first day of the week he washed his hands ,5,0,1,0,5,0,0,0,0,0,0,0,-1
+10148,SSN,the chicken laid some eggs ,the chicken lays _ eggs ,0,0,0,0,0,0,0,1,0,1,0,0,2
+10148,1T_tr,they washed in cold water ,_ wash in cold water ,0,0,0,0,0,0,0,1,0,1,0,0,2
+10148,SSN,the kitchen clock was wrong ,the kitchen clock is wrong ,0,0,0,0,0,0,0,1,0,0,0,0,1
+10148,1T,the football hit the goalpost ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10148,1T_tr,the young people are dancing ,the young people are dancing ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T,some nice people are coming _ _ _ _ _ _ _ ,some nice people are coming sister and i are family the team ,0,0,0,2,0,0,0,0,0,0,0,5,7
+10148,1T_tr,the fruit is on the ground ,the fruit is on the ground ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,a dish towel is by the sink ,the dish towel is by the sink ,0,0,0,0,0,0,0,0,1,0,0,0,1
+10148,1T,the oven is too hot _ _ _ _ _ _ ,the oven is too hot for desert we had apple pie ,0,0,0,2,0,0,0,0,0,0,0,4,6
+10148,1T_tr,mother got a saucepan ,mother got a saucepan ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,the janitor used a broom ,the janitor used a broom ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T,_ mother tied the string ,string elephants are big animals ,5,0,1,0,4,0,0,0,0,0,0,0,-1
+10148,1T_tr,the new road is on the map ,the new road is on the map ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T,_ _ _ a man is turning the faucet ,birds are building a nest in _ trees man ,0,2,0,1,0,0,2,0,0,1,0,4,10
+10148,1T,the daughter set the table ,_ _ _ _ _ ,0,0,0,0,0,0,0,0,0,0,1,0,-1
+10148,1T,they met some friends _ _ _ _ ,_ meet some friends elephants are big animals ,0,0,0,0,0,0,0,1,0,1,0,4,6
+10148,SSN,the good boy is helping ,the good boy is helping ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T_tr,they had two empty bottles ,they had two empty bottles ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T_tr,the dog came back ,the dog came back ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T_tr,father forgot the bread ,father forgot the bread ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,the dog jumped on the chair ,the dog jumped on the chair ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T_tr,he is holding his nose ,he is holding his nose ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,they sat on a wooden bench ,they sat on a little bench ,0,1,0,0,0,0,0,0,0,0,0,0,1
+10148,1T,the boy _ hurried to school ,the boy is going to school ,0,1,0,0,0,0,0,0,0,0,0,1,2
+10148,1T,the raincoat is hanging up _ _ _ _ _ ,the raincoat is hanging up my parents sister and i ,0,0,0,2,0,0,0,0,0,0,0,3,5
+10148,1T,_ _ the tiny baby was pretty _ _ _ _ ,we heard the _ baby was pretty ticking of the clock ,0,0,0,3,0,0,1,0,0,0,0,3,7
+10148,1T,the driver started _ the _ _ _ engine ,the driver started at the orange juice we heard ,0,1,0,2,0,0,0,0,0,0,0,2,5
+10148,1T_tr,the children dropped the bag ,the children dropped the bag ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,the mailman brought a letter ,the mailman _ _ _ ,0,0,0,0,0,0,2,0,0,1,0,0,3
+10148,1T_tr,the bus left early ,the bus left early ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,he broke his leg ,he broke his leg ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T_tr,she found her purse ,she found her purse ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T,they walked across the grass _ _ _ ,they walked across the grass the team coach ,0,0,0,1,0,0,0,0,0,0,0,2,3
+10148,1T,the puppy plays with a ball _ ,the puppy plays with the ball 25cents ,0,0,0,0,0,0,0,0,1,0,0,1,2
+10148,1T_tr,the orange was very sweet ,the orange was very sweet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,the shirts are hanging in the closet ,the shirts are hanging in the closet ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,1T_tr,the girl has a picture book ,the girl has a picture book ,0,0,0,0,0,1,0,0,0,0,0,0,0
+10148,SSN,the buckets _ hold water ,the buckets full of water ,0,0,0,1,0,0,1,0,0,0,0,1,3
+10148,SSN,they are riding their bicycles ,they are riding their bicycles ,0,0,0,0,0,1,0,0,0,0,0,0,0
